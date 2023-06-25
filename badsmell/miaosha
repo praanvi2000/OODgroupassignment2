@@ -1,0 +1,5 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.geekq.admin.pojo","C:\Users\Acer\Desktop\GroupAssignment2-OOD\Cloned\miaosha\miaosha-admin\miaosha-admin-api\src\main\java\com\geekq\admin\pojo\OrdersExample.java","3","66","This abstract class does not have any abstract methods","Best Practices","AbstractClassWithoutAbstractMethod"
+"1","com.geekq.web.controller","C:\Users\Acer\Desktop\GroupAssignment2-OOD\Cloned\miaosha\miaosha-admin\miaosha-admin-web\src\main\java\com\geekq\web\controller\BaseController.java","3","6","This abstract class does not have any abstract methods","Best Practices","AbstractClassWithoutAbstractMethod"
+"1","com.geekq.miaosha.redis.redismanager","C:\Users\Acer\Desktop\GroupAssignment2-OOD\Cloned\miaosha\miaosha-v1\src\main\java\com\geekq\miaosha\redis\redismanager\OptimisticLockTest.java","3","111","Avoid empty catch blocks","Error Prone","EmptyCatchBlock"
+"1","com.geekq.miaosha.redis.redismanager","C:\Users\Acer\Desktop\GroupAssignment2-OOD\Cloned\miaosha\miaosha-v1\src\main\java\com\geekq\miaosha\redis\redismanager\RedisUtil.java","3","499","Avoid empty catch blocks","Error Prone","EmptyCatchBlock"
