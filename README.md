@@ -1,2 +1,2 @@
 # OODgroupassignment2
-group 1
+group 2
